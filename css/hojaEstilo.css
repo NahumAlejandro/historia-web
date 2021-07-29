@@ -1,0 +1,29 @@
+
+.center{
+    text-align: center;
+} 
+
+table{
+    border-collapse: auto;
+    width: 80%;
+	height: 70%;
+    font-size: 120%;
+    font-style:initial;
+}
+table,td {
+	border: 1px solid black;
+    background: rgb(1, 200, 214);
+}
+th, td{
+    padding: 3px 3px;
+}
+
+th {
+    background: rgb(1, 200, 214);
+    color: rgb(0, 0, 0);
+}
+caption{
+    background:rgb(1, 141, 151);
+    border: 1px solid;
+}
+
